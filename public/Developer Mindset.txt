@@ -1,0 +1,13 @@
+1. What's the most exciting tool/stack you've explored recently?
+    React.js for my semester paper 'App Development'
+2. Describe how you approach debuggin when stuck.
+    Go throught the statement line where the error occurs.
+    If nothing wrong with that statement then I check for the previous action.
+    If there is a problem with the logical error then I go for manual trace of the statements.
+    Ask my friend if they encouter the some issues like that, if so then I rectify by asking them.
+    Sometimes I do console printing for where exactly causes error if the process is iterative or recursion.
+
+3. Share a link to one past project you’re proud of (if any).
+      https://github.com/Prabakaran9103/Medical-Management-System
+      I have learned HTML, CSS, JavaScript, PHP and database connectivity to MySQL for this project
+      from the scratch within the time period of 3 months.

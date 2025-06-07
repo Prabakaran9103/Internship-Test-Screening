@@ -1,0 +1,13 @@
+1.Which model/framework you'd choose and why?
+  If I were building a chat feature powered by a language model, I will go with OpenAI's GPT-4 model.
+  Because I feel that OpenAI's chatGPT performe much better in chating and interaction.
+
+2.How you would integrate it into a Next.js app?
+  Step 1: Install dependencies "npm install ai openai"
+  Step 2: Create a route.ts in the specified directory and handle the POST and GET request and responses
+  Step 3: Create a page component for front end and request the services from server using fetch()
+
+3.How you'd handle input/output and streaming responses
+  Input elements are passed to handle functions via useChat()
+  Output responses stream token-by-token and appear in real time.
+  The OpenAI SDK + Vercel AI stream utility enables smooth, efficient token streaming without requiring WebSockets.
